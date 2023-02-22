@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## If you are aware of the dangers of AI abuse, please communicate in the discussion group and provide the AI abuse events you have observed. We need to take a stand on AI abuse and help the public identify AI abuse.
+
+## 如果你已意识到AI滥用的危害，请在讨论组交流，并提供你观察到的AI滥用事件。针对AI滥用我们需要表明我们的态度，以及帮助大众辨别AI滥用。
